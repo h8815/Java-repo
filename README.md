@@ -67,8 +67,8 @@ java ProgramName
 
 Feel free to contribute to this repository by:
 1. Forking the project
-2. Creating your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Committing your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Pushing to the branch (`git push origin feature/AmazingFeature`)
+2. Creating your feature branch (`git checkout -b feature/NewFile`)
+3. Committing your changes (`git commit -m 'Add some NewFile'`)
+4. Pushing to the branch (`git push origin feature/NewFile`)
 5. Opening a Pull Request
 
