@@ -13,10 +13,12 @@ This repository contains a collection of Java programs demonstrating various pro
 - `Fabonacci.java` - Fibonacci sequence implementation
 - `Table.java` - Multiplication table generator
 
-<!-- ### Pattern Programs
+### Pattern Programs
 - `Pattern.java` - Basic pattern printing
 - `numberPattern.java` - Number pattern programs
 - `numberPyramid.java` - Programs to print number pyramids
+
+<!-- 
 
 ### Array Operations
 - `RArr.java` - Array reversal implementation
