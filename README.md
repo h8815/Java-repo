@@ -5,9 +5,9 @@ This repository contains a collection of Java programs demonstrating various pro
 ## Programs List
 
 ### Basic Programs
-<!-- - `Number.java` - Basic number operations and examples -->
-<!-- - `Prime.java` & `Print_prime.java` - Prime number calculations -->
-<!-- - `Palindrome.java` - Program to check if a number/string is palindrome -->
+- `Number.java` - Basic number operations and examples
+- `Prime.java` & `Print_prime.java` - Prime number calculations
+- `Palindrome.java` - Program to check if a number/string is palindrome
 - `CountVowelConso.java` - Count Vowel & Consonent in a given string
 - `TestAge.java` - Raise Exception if age < 18
 - `Fabonacci.java` - Fibonacci sequence implementation
