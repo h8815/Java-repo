@@ -18,11 +18,11 @@ This repository contains a collection of Java programs demonstrating various pro
 - `numberPattern.java` - Number pattern programs
 - `numberPyramid.java` - Programs to print number pyramids
 
-<!-- 
-
 ### Array Operations
 - `RArr.java` - Array reversal implementation
 - `MatrixOperations.java` - Matrix operations and manipulations
+
+<!-- 
 
 ### Object-Oriented Programming
 - `MultilevelInheritance.java` - Demonstration of multilevel inheritance
