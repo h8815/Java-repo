@@ -28,9 +28,10 @@ This repository contains a collection of Java programs demonstrating various pro
 - `MultilevelInheritance.java` - Demonstration of multilevel inheritance
 - `SuperThisConstructor.java` - Examples of super and this keywords
 - `StudentInfo.java` - Student information management system
-- `Practice.java` - Various OOP practice examples
+
 
 ### AWT GUI Programs
+- `GUIPractice.java` - Use of Swingx practice examples
 - `AWTComponentDemo.java` - Demonstration of AWT components
 - `AWTFormValidation.java` - Form validation using AWT
 - `CitySelectorAWT.java` - City selection interface using AWT
