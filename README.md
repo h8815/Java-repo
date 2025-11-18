@@ -30,12 +30,11 @@ This repository contains a collection of Java programs demonstrating various pro
 ### AWT GUI Programs
 - `GUIPractice.java` - Use of Swingx practice examples
 - `AWTComponentDemo.java` - Demonstration of AWT components
-<!-- - `AWTFormValidation.java` - Form validation using AWT -->
+- `AWTFormValidation.java` - Form validation using AWT
 - `CitySelectorAWT.java` - City selection interface using AWT
-<!--
 - `ColorSelectorAWT.java` - Color picker implementation
 - `EventHandlingDemo.java` - Event handling in AWT
-- `LayoutManagerDemo.java` - Different layout managers in AWT -->
+- `LayoutManagerDemo.java` - Different layout managers in AWT 
 
 ## Getting Started
 
