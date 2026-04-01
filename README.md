@@ -1,4 +1,5 @@
-# Java Programming Examples
+# Java Programming Examples [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
 
 This repository contains a collection of Java programs demonstrating various programming concepts, from basic algorithms to GUI applications using AWT.
 
